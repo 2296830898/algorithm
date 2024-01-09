@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础算法/基础杂项.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f9b249a27109004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "基础算法/数据结构.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "77fd88a3ccb67351",
@@ -160,14 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2f9b249a27109004",
+  "active": "def745c529d2a8f8",
   "lastOpenFiles": [
-    "图片存储/Pasted image 20221205170909.png",
+    "基础算法/基础排序.md",
     "基础算法/基础杂项.md",
     "基础算法/数据结构.md",
+    "图片存储/Pasted image 20221205170909.png",
     "图片存储/image-20221203154204808.png",
     "图片存储/image-20221203153051602.png",
-    "基础算法/基础排序.md",
     "图片存储/image-20221202203400411.png",
     "图片存储/image-20221202203106800.png",
     "图片存储/Pasted image 20221204213504.png",
@@ -175,7 +161,6 @@
     "图片存储/Pasted image 20221204212958.png",
     "图片存储/Pasted image 20221204212644.png",
     "图片存储/Pasted image 20221204211516.png",
-    "图片存储/Pasted image 20221204211414 1.png",
     "基础算法习题.md",
     "图片存储",
     "Welcome.md",
