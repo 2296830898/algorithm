@@ -147,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +161,14 @@
   },
   "active": "2f9b249a27109004",
   "lastOpenFiles": [
-    "图片存储/Pasted image 20221206164113.png",
-    "图片存储/Pasted image 20221205170909.png",
     "基础算法/基础杂项.md",
     "基础算法/数据结构.md",
+    "图片存储/ee99b9b122631d812cb83b1e2559a99.jpg",
+    "图片存储/~e99b9b122631d812cb83b1e2559a99.tmp",
+    "图片存储/ee99b9b122631d812cb83b1e2559a99.jpg.~tmp",
+    "图片存储/Pasted image 20240222091627.png",
+    "图片存储/Pasted image 20221206164113.png",
+    "图片存储/Pasted image 20221205170909.png",
     "图片存储/image-20221203154204808.png",
     "图片存储/image-20221203153051602.png",
     "基础算法/基础排序.md",
@@ -173,9 +176,6 @@
     "图片存储/image-20221202203106800.png",
     "图片存储/Pasted image 20221204213504.png",
     "图片存储/Pasted image 20221204213402.png",
-    "图片存储/Pasted image 20221204212958.png",
-    "图片存储/Pasted image 20221204212644.png",
-    "图片存储/Pasted image 20221204211516.png",
     "基础算法习题.md",
     "图片存储",
     "Welcome.md",
