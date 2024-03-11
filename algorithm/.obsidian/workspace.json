@@ -35,14 +35,16 @@
             "id": "fb1bbfdb4f26cfdf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "图片存储/Pasted image 20221208112347.png"
+                "file": "基础算法/图论.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础算法/数据结构.md",
+                "file": "基础算法/图论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础算法/数据结构.md",
+                "file": "基础算法/图论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础算法/数据结构.md"
+                "file": "基础算法/图论.md"
               }
             }
           }
@@ -169,24 +171,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2f9b249a27109004",
+  "active": "fb1bbfdb4f26cfdf",
   "lastOpenFiles": [
-    "Welcome.md",
     "基础算法/基础杂项.md",
     "基础算法/数据结构.md",
+    "基础算法/基础排序.md",
+    "图片存储/Pasted image 20221208112347.png",
+    "基础算法/图论.md",
+    "图片存储/Pasted image 20221211170509.png",
+    "图片存储/Pasted image 20221211165703.png",
+    "图片存储/Pasted image 20221211161812.png",
+    "Welcome.md",
     "图片存储/Pasted image 20240304102039.png",
     "图片存储/Pasted image 20221208113006.png",
     "图片存储/Pasted image 20221208112812.png",
     "图片存储/Pasted image 20221208112713.png",
-    "图片存储/Pasted image 20221208112347.png",
-    "基础算法/基础排序.md",
     "图片存储/食物链.jpg",
     "图片存储/ee99b9b122631d812cb83b1e2559a99.jpg",
     "图片存储/~e99b9b122631d812cb83b1e2559a99.tmp",
     "图片存储/ee99b9b122631d812cb83b1e2559a99.jpg.~tmp",
-    "图片存储/Pasted image 20240222091627.png",
-    "图片存储/Pasted image 20221206164113.png",
-    "图片存储/Pasted image 20221205170909.png",
     "基础算法习题.md",
     "图片存储",
     "基础算法"
